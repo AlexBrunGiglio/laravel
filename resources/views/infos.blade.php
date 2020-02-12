@@ -36,7 +36,7 @@
 
                     </div>
 
-                    <h6>Ajouter une compétences</h6>
+                    <h6>Ajouter une compétence</h6>
                     <div class="form-group d-flex flex-column bd-highlight mb-2">
                         <select class="form-control bd-highlight">
                         <option></option>
@@ -44,7 +44,7 @@
                         <button type="button" class="btn bd-highlight ml-auto mt-3 mb-3 btn-danger">Valider</button>
                     </div>
 
-                    <h6>Modifier une compétences</h6>
+                    <h6>Modifier une compétence</h6>
                     <div class="form-group d-flex flex-column bd-highlight mb-2">
                     <select class="form-control bd-highlight">
                         <option></option>
@@ -52,7 +52,7 @@
                         <button type="button" class="btn bd-highlight ml-auto mt-3 mb-3 btn-danger">Valider</button>
                     </div>
 
-                    <h6>Supprimer une compétences</h6>
+                    <h6>Supprimer une compétence</h6>
                     <div class="form-group d-flex flex-column bd-highlight mb-2">
                     <select class="form-control bd-highlight">
                         <option></option>
