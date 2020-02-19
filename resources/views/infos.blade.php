@@ -32,7 +32,7 @@
                         </div>
                     @endif
                     <div class="mb-2">
-                    <h5>Vos compétences actuelles</h5>
+                    <h5>Gestion de vos compétences</h5>
 
                     </div>
 
@@ -41,6 +41,9 @@
                         <select class="form-control bd-highlight">
                         <option></option>
                         </select>
+                        <div class="input-group bd-highlight ml-auto mt-3">
+                            <input type="text" class="form-control " placeholder="Value" aria-label="Value" aria-describedby="basic-addon1">
+                        </div>
                         <button type="button" class="btn bd-highlight ml-auto mt-3 mb-3 btn-danger">Valider</button>
                     </div>
 
@@ -49,6 +52,9 @@
                     <select class="form-control bd-highlight">
                         <option></option>
                         </select>
+                        <div class="input-group bd-highlight ml-auto mt-3">
+                            <input type="text" class="form-control " placeholder="Value" aria-label="Value" aria-describedby="basic-addon1">
+                        </div>
                         <button type="button" class="btn bd-highlight ml-auto mt-3 mb-3 btn-danger">Valider</button>
                     </div>
 

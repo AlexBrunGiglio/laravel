@@ -13,4 +13,13 @@ class Skill extends Model
     {
         return $this->belongsToMany('App\User')->withPivot('level');
     }
+
+    /**
+     * The attributes that are mass assignable.
+     *
+     * @var array
+     */
+      protected $fillable = [
+        'name', 'description', 'logo',
+    ];
 }
